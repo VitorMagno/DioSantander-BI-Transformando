@@ -29,3 +29,7 @@ Repositorio criado para o desafio de projeto de transformação de dados utiliza
 - [ ] Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
 
 - [ ] Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. 
+
+- [ ] Agrupe os dados a fim de saber quantos colaboradores existem por gerente
+
+- [ ] Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
