@@ -18,18 +18,18 @@ Repositorio criado para o desafio de projeto de transformação de dados utiliza
 
 - [x] Separar colunas complexas 
 
-- [X] Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção 
+- [x] Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção 
 
-- [ ] Neste processo elimine as colunas desnecessárias. 
+- [x] Neste processo elimine as colunas desnecessárias. 
 
-- [ ] Realize a junção dos colaboradores e respectivos nomes dos gerentes . Isso pode ser feito com consulta SQL ou pela mescla de tabelas com Power BI. Caso utilize SQL, especifique no README a query utilizada no processo. 
+- [x] Realize a junção dos colaboradores e respectivos nomes dos gerentes . Isso pode ser feito com consulta SQL ou pela mescla de tabelas com Power BI. Caso utilize SQL, especifique no README a query utilizada no processo. 
 
-- [ ] Mescle as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores 
+- [x] Mescle as colunas de Nome e Sobrenome para ter apenas uma coluna definindo os nomes dos colaboradores 
 
-- [ ] Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
+- [x] Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro.
 
-- [ ] Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. 
+- [x] Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. 
+  - Porque precisamos utilizar os valores das duas colunas.
+- [x] Agrupe os dados a fim de saber quantos colaboradores existem por gerente
 
-- [ ] Agrupe os dados a fim de saber quantos colaboradores existem por gerente
-
-- [ ] Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
+- [x] Elimine as colunas desnecessárias, que não serão usadas no relatório, de cada tabela
