@@ -2,21 +2,21 @@
 Repositorio criado para o desafio de projeto de transformação de dados utilizando o Power Bi
 
 * Todo
-- [ ] Verifique os cabeçalhos e tipos de dados
+- [x] Verifique os cabeçalhos e tipos de dados
 
-- [ ] Modifique os valores monetários para o tipo double preciso 
+- [x] Modifique os valores monetários para o tipo double preciso 
 
-- [ ] Verifique a existência dos nulos e analise a remoção 
+- [x] Verifique a existência dos nulos e analise a remoção 
 
-- [ ] Os employees com nulos em Super_ssn podem ser os gerentes. Verifique se há algum colaborador sem gerente
+- [x] Os employees com nulos em Super_ssn podem ser os gerentes. Verifique se há algum colaborador sem gerente
 
-- [ ] Verifique se há algum departamento sem gerente 
+- [x] Verifique se há algum departamento sem gerente 
 
-- [ ] Se houver departamento sem gerente, suponha que você possui os dados e preencha as lacunas
+- [x] Se houver departamento sem gerente, suponha que você possui os dados e preencha as lacunas
 
-- [ ] Verifique o número de horas dos projetos 
+- [x] Verifique o número de horas dos projetos 
 
-- [ ] Separar colunas complexas 
+- [x] Separar colunas complexas 
 
 - [ ] Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção 
 
