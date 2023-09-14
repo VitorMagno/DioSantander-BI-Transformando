@@ -18,7 +18,7 @@ Repositorio criado para o desafio de projeto de transformação de dados utiliza
 
 - [x] Separar colunas complexas 
 
-- [ ] Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção 
+- [X] Mesclar consultas employee e departament para criar uma tabela employee com o nome dos departamentos associados aos colaboradores. A mescla terá como base a tabela employee. Fique atento, essa informação influencia no tipo de junção 
 
 - [ ] Neste processo elimine as colunas desnecessárias. 
 
